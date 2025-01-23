@@ -1,0 +1,4 @@
+<div class="flex gap-2 mt-2">
+                        <button onclick="updateSteak('6')" class="size-button px-3 py-1 bg-blue-500 text-white rounded hover:bg-green-600 transition-colors" data-size="6">6</button>
+                        <button onclick="updateSteak('9')" class="size-button px-3 py-1 bg-blue-500 text-white rounded hover:bg-green-600 transition-colors" data-size="9">9</button>
+                    </div>
